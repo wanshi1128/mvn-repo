@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ghi</groupId>
+  <artifactId>dbsyncer-connector</artifactId>
+  <versioning>
+    <release>1.1.9-Beta</release>
+    <versions>
+      <version>1.1.9-Beta</version>
+    </versions>
+    <lastUpdated>20220818082800</lastUpdated>
+  </versioning>
+</metadata>
